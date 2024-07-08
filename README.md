@@ -12,7 +12,7 @@ A simple calculator application built using Java Swing for the graphical interfa
 - Responsive UI with customizable fonts and colors
 
 ## Demo
-[Watch the Gameplay Video](https://www.youtube.com/watch?v=xwpSZCN16wY)
+[Watch the **Demo** Video](https://www.youtube.com/watch?v=xwpSZCN16wY)
 
 ## Motivation
 
