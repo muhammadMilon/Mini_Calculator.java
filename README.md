@@ -2,8 +2,6 @@
 
 A simple calculator application built using Java Swing for the graphical interface.
 
-![Calculator App Screenshot](calc-app-screenshot.png)
-
 ## Features
 
 - Arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
@@ -41,10 +39,6 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 
 - Inspired by [mention any inspirations or references].
 - Thank you to [mention individuals or resources] for their guidance and assistance.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
