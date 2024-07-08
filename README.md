@@ -34,6 +34,11 @@ To use the Calculator App:
 - **Java Swing**: For building the graphical user interface.
 - **Java AWT**: For event handling and drawing basic graphical elements.
 
+## Installation
+1. Clone the repository.
+2. Open the project in your preferred IDE.
+3. Compile and run the Main class.
+
 ## Contributions
 
 Contributions to enhance the functionality, improve UI/UX, or fix issues are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
