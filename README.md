@@ -10,6 +10,7 @@ A simple calculator application built using Java Swing for the graphical interfa
 - Clear (CLR) button to clear the input field
 - Backspace button to delete the last character
 - Responsive UI with customizable fonts and colors
+- [For Details](https://www.youtube.com/watch?v=xwpSZCN16wY)
 
 ## Motivation
 
@@ -44,4 +45,3 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 
 **Author:** Muhammad Milon  
 **Project Link:** [Here](https://github.com/muhammadMilon/Mini_Calculator.java)
-**Youtube Video Link:** [Here](https://www.youtube.com/watch?v=xwpSZCN16wY)
