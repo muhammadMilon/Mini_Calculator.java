@@ -37,8 +37,8 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 
 ## Acknowledgments
 
-- Inspired by [mention any inspirations or references].
-- Thank you to [mention individuals or resources] for their guidance and assistance.
+- Inspired by Our CSE Botherhood.
+- Thank you to my all SENIOR for your guidance and assistance.
 
 ---
 
