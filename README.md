@@ -10,7 +10,9 @@ A simple calculator application built using Java Swing for the graphical interfa
 - Clear (CLR) button to clear the input field
 - Backspace button to delete the last character
 - Responsive UI with customizable fonts and colors
-- [For Details](https://www.youtube.com/watch?v=xwpSZCN16wY)
+
+## Demo
+[Watch the Gameplay Video](https://www.youtube.com/watch?v=xwpSZCN16wY)
 
 ## Motivation
 
