@@ -42,7 +42,5 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 
 ---
 
-**Note:** Replace `calc-app-screenshot.png` with an actual screenshot of your calculator app, and update the URLs and details according to your project's specifics.
-
 **Author:** Muhammad Milon  
 **Project Link:** [https://github.com/muhammadMilon/calculator-app](https://github.com/muhammadMilon/calculator-app)
