@@ -43,4 +43,4 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 ---
 
 **Author:** Muhammad Milon  
-**Project Link:** [https://github.com/muhammadMilon/calculator-app](https://github.com/muhammadMilon/calculator-app)
+**Project Link:** [Here](https://github.com/muhammadMilon/Mini_Calculator.java)
