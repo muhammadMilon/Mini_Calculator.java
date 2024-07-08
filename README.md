@@ -38,9 +38,10 @@ Contributions to enhance the functionality, improve UI/UX, or fix issues are wel
 ## Acknowledgments
 
 - Inspired by Our CSE Botherhood.
-- Thank you to my all SENIOR for your guidance and assistance.
+- Thank you to my all SENIOR for their guidance and assistance.
 
 ---
 
 **Author:** Muhammad Milon  
 **Project Link:** [Here](https://github.com/muhammadMilon/Mini_Calculator.java)
+**Youtube Video Link:** [Here](https://www.youtube.com/watch?v=xwpSZCN16wY)
